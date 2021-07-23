@@ -9,8 +9,7 @@ In the experiment, Udacity tested a change where if the student clicked "start f
 The main goal for this experiment is to make a better experience for the students in learning subjects through an online course and improve features such as coaches support so that students will be able to complete the course. 
 
 
-### Hypothesis
-<img src="https://static1.squarespace.com/static/5144a1bde4b033f38036b7b9/t/56714b05c647ad9f555348fa/1450265419456/PresentWIP.gif?format=500w"/>
+## Hypothesis
 Before delivering a data-driven decision, We have to make a hypothesis that we can test through a few experiments with enough statistical power and how to analyze and draw a conclusion. Because we are using A/B testing, We will decide 2 hyphothesis as follows :
 * <strong>Null Hypothesis(H0)</strong> : There is no difference and significant change in reducing the early udacity course cancellation after making a few changes.
 * <strong>Alternative Hypothesis(H1)</strong> :There is an effect after making some changes that reduce the number of frustrated students who left the free trial due to not having enough time without reducing the the remaining students who continue past free trial and complete the course. 
